@@ -1,0 +1,16 @@
+D:\C# Programs\Courses\CSharpFromScratch\MyFamilyProject\MyFamilyProject\bin\Debug\MyFamilyProject.exe.config
+D:\C# Programs\Personal\MyFamilyProject\MyFamilyProject\bin\Debug\MyFamilyProject.exe.config
+D:\C# Programs\Personal\MyFamilyProject\MyFamilyProject\bin\Debug\MyFamilyProject.exe
+D:\C# Programs\Personal\MyFamilyProject\MyFamilyProject\bin\Debug\MyFamilyProject.pdb
+D:\C# Programs\Personal\MyFamilyProject\MyFamilyProject\obj\Debug\MyFamilyProject.csprojResolveAssemblyReference.cache
+D:\C# Programs\Personal\MyFamilyProject\MyFamilyProject\obj\Debug\MyFamilyProject.exe
+D:\C# Programs\Personal\MyFamilyProject\MyFamilyProject\obj\Debug\MyFamilyProject.pdb
+C:\Programming\C# Programs\Personal\MyFamilyProject\MyFamilyProject\bin\Debug\MyFamilyProject.exe.config
+C:\Programming\C# Programs\Personal\MyFamilyProject\MyFamilyProject\obj\Debug\MyFamilyProject.exe
+C:\Programming\C# Programs\Personal\MyFamilyProject\MyFamilyProject\obj\Debug\MyFamilyProject.pdb
+C:\Programming\C# Programs\Personal\MyFamilyProject\MyFamilyProject\bin\Debug\MyFamilyProject.exe
+C:\Programming\C# Programs\Personal\MyFamilyProject\MyFamilyProject\bin\Debug\MyFamilyProject.pdb
+C:\Programming\C# Programs\Personal\MyFamilyProject\MyFamilyProject\obj\Debug\MyFamilyProject.csprojResolveAssemblyReference.cache
+C:\Programming\Git_Stuff\MyFamilyProject\MyFamilyProject\bin\Debug\MyFamilyProject.exe.config
+C:\Programming\Git_Stuff\MyFamilyProject\MyFamilyProject\obj\Debug\MyFamilyProject.exe
+C:\Programming\Git_Stuff\MyFamilyProject\MyFamilyProject\obj\Debug\MyFamilyProject.pdb
